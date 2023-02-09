@@ -33,7 +33,7 @@ The competition is evaluated on Root-Mean-Squared-Error (RMSE) between the predi
 
 ## Leaderboard
 
-You can check the leaderboard on the [Kaggle website](https://www.kaggle.com/c/property-price-predict/leaderboard) to see how your submission stacks up against other competitors.
+You can check the leaderboard on the [Kaggle website](https://www.kaggle.com/c/property-price-predict/leaderboard) to see how your submission stacks up against other competitors. 
 
 ## Conclusion
 
